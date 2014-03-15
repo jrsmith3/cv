@@ -103,6 +103,12 @@ Turkey
 Ukraine
 
 
+Dissertation
+============
+Thermionic Energy Conversion and Particle Detection Using Diamond and Diamond-Like Carbon Surfaces.
+Committee: Robert J. Nemanich (co-chair), Griff Bilbro (co-chair), David Aspnes, Thomas Perl
+
+
 Publications
 ============
 Tompkins, R. P., Smith, J. R., Kirchner, K. W., Jones, K. A., Leach, J. H., Udwary, K., Preble, E., Suvarna, P., Leathersich, J.M., Shahedipour-Sandvik, F. \href{http://dx.doi.org/10.1007/s11664-014-3021-9}{GaN Power Schottky Diodes with Drift Layers Grown on Four Substrates}. Journal of Electronic Materials, 2014; 1-7
