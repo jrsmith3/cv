@@ -8,6 +8,11 @@ Washington DC, 20009
 joshua.r.smith@gmail.com
 
 
+Research Interests
+==================
+Most of my effort is energy conversion devices based on wide-bandgap semiconductors, particularly the III-nitrides. I am particularly interested in thermoelectron emission and energy conversion (sometimes called thermionic emission).
+
+
 Experience
 ==========
 US Army Research Laboratory, Adelphi MD, USA
@@ -55,7 +60,7 @@ Education
 Ph.D. Physics, NC State University, 2007
 B.S. Physics, Cum Laude, NC State University, 2002
 B.S. Mathematics, Cum Laude, NC State University, 2002
-High School. North Carolina School of Science and Mathematics, 1998
+High School, North Carolina School of Science and Mathematics, 1998
 
 
 Teaching
