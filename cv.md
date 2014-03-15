@@ -89,18 +89,18 @@ April 2003 - April 2005
 Countries Visited
 =================
 Canada
-Germany
-Netherlands
 France
-Spain
-Portugal
-Italy
-Poland
-Ukraine
 Georgia
-Turkey
+Germany
 Greece
+Italy
 Morocco
+Netherlands
+Poland
+Portugal
+Spain
+Turkey
+Ukraine
 
 
 Publications
