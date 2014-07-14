@@ -20,7 +20,7 @@ I study energy conversion devices based on wide-bandgap semiconductors, specific
 
 Experience
 ==========
-- **US Army Research Laboratory** - Visiting Scientist, Sensors and Electron Devices Directorate (August 2011 - Present).  
+- **US Army Research Laboratory** - ORAU Senior Researcher, Sensors and Electron Devices Directorate (August 2011 - Present).  
 Thermoelectron energy conversion, GaN betavoltaics, Schottky diodes, and high electron mobility transistors.
 
 - **Carnegie Mellon University** - Postdoctoral Researcher, Prof. Robert Davis (June 2008 - July 2011).  
