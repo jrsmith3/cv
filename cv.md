@@ -147,6 +147,8 @@ Presentations
 
 Posters
 =======
+**Smith, J.R.** November 2014. [Beta-enhanced thermoelectron emission and energy conversion](https://github.com/jrsmith3/conf-mrs_fall_2014_poster/releases), Boston, MA.
+
 **Smith, J.R.** August 2013. Simulated thermionic engine performance using III-nitride, negative electron affinity collector, Washington, DC.
 
 **Smith, J.R.**, Ricketts, D., Davis, R., Bain, J., Fedder, G., Sitti, M., Santhanam, S., Dang, Y., Hu, W., Ozcan, O., Zhang, A., Gu, J. Tip directed, field assisted nanomanufacturing. DARPA MEMS PI Review Meeting July 2010. San Francisco, California.
