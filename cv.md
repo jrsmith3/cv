@@ -103,6 +103,12 @@ Dissertation
 Committee: Robert J. Nemanich (co-chair), Griff Bilbro (co-chair), David Aspnes, Thomas Perl
 
 
+Selected Software
+=================
+- [tec](http://jrsmith3.github.io/tec/) - Utilities for simulating vacuum thermionic energy conversion devices.
+- [ibei](http://ibei.readthedocs.org/en/latest/) - Calculator for incomplete Bose-Einstein integral.
+
+
 Publications
 ============
 Tompkins, R.P., **Smith, J.R.**, Kirchner, K.W., Jones, K.A., Leach, J.H., Udwary, K., Preble, E., Suvarna, P., Leathersich, J.M., Shahedipour-Sandvik, F. [GaN Power Schottky Diodes with Drift Layers Grown on Four Substrates](http://dx.doi.org/10.1007/s11664-014-3021-9). Journal of Electronic Materials, 2014; 43 (4): 850-856
