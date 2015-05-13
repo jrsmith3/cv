@@ -31,7 +31,7 @@ In addition to the radioisotope batteries, I developed a model of electron trans
 
 **Carnegie Mellon University** - Postdoctoral Researcher, Prof. Robert Davis (June 2008 - July 2011).
 
-At CMU I was the lead postdoc on a project to develop a nanolithography technique using a scanning tunneling microscope tip as a stylus. During this time I built a [nanolithography/surface science laboratory](https://www.flickr.com/groups/tfan/) from scratch. This lab featured an ultrahigh vacuum surface analysis system including in-situ sample preparation, scanning probe microscopy, x-ray photoemission spectroscopy, Auger electron spectroscopy, and low-energy electron diffraction. I managed three graduate students and we developed processes to clean and hydrogen passivate Si (100), write features in the hydrogen passivation with the scanning probe tip, and adsorb disilane to the features.
+At CMU I was the lead postdoc on a project to develop a nanolithography technique using a scanning tunneling microscope tip as a stylus. During this time I built the [TFAN nanolithography/surface science laboratory](https://www.flickr.com/groups/tfan/) from scratch. This lab featured an ultrahigh vacuum surface analysis system including in-situ sample preparation, scanning probe microscopy, x-ray photoemission spectroscopy, Auger electron spectroscopy, and low-energy electron diffraction. I managed three graduate students and we developed processes to clean and hydrogen passivate Si (100), write features in the hydrogen passivation with the scanning probe tip, and adsorb disilane to the features.
 
 
 **NC State University** - Graduate Research Assistant, Profs. Robert J. Nemanich and Griff L. Bilbro (August 2002 - August 2007).
