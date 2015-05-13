@@ -89,7 +89,6 @@ Professional Affiliations
 Service
 =======
 - President, Graduate Physics Student Association (GPSA). April 2005 - April 2006
-
 - University Graduate Student Assc. Representative. April 2003 - April 2005
 
 
