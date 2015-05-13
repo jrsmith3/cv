@@ -13,21 +13,29 @@ joshua.r.smith@gmail.com
 [github](http://github.com/jrsmith3)
 
 
-Research Interests
-==================
+Summary
+=======
+I have expertise in developing physics-based models of physical systems and developing the software to implement them. In the past, I have worked on nanolithography using a scanning tunneling microscope as a stylus, and surface science including x-ray photoemission spectroscopy, Auger electron spectroscopy, and low-energy electron diffraction.
+
 I study energy conversion devices based on wide-bandgap semiconductors, specifically the III-nitrides. I am particularly interested in thermoelectron emission and energy conversion (sometimes called thermionic emission).
 
 
 Experience
 ==========
-**US Army Research Laboratory** - ORAU Senior Researcher, Sensors and Electron Devices Directorate (August 2011 - Present).  
-Thermoelectron energy conversion, GaN betavoltaics, Schottky diodes, and high electron mobility transistors.
+**US Army Research Laboratory** - ORAU Senior Researcher, Sensors and Electron Devices Directorate (August 2011 - Present).
 
-**Carnegie Mellon University** - Postdoctoral Researcher, Prof. Robert Davis (June 2008 - July 2011).  
-Probe microscopy nanomanipulation and manufacturing.
+At ARL I have investigated radioisotope batteries, namely betavoltaic and betaphotovoltaic devices. Our team demonstrated a working GaN based betavoltaic device -- I specified the structure, verified the devices using electron beam induced current scanning tunneling microscopy, and guided the devices through the various fabrication and characterization steps. For the betaphotovoltaic part of the project, I specified the AlGaN photovoltaic structure and developed a process of electrophoretic deposition to apply phosphor to the photovoltaic devices post-fabrication. In addition to the radioisotope batteries, I developed a model of electron transport through a thermoelectron energy conversion device featuring a negative electron affinity anode. The software I wrote for this project is used by university research groups and a startup company.
 
-**NC State University** - Graduate Research Assistant, Profs. Robert J. Nemanich and Griff L. Bilbro (August 2002 - August 2007).  
-Thermoelectron emission and energy conversion from diamond.
+
+**Carnegie Mellon University** - Postdoctoral Researcher, Prof. Robert Davis (June 2008 - July 2011).
+
+At CMU I was the lead postdoc on a project to develop a nanolithography technique using a scanning tunneling microscope tip as a stylus. During this time I built a nanolithography/surface science laboratory from scratch. This lab featured an ultrahigh vacuum surface analysis system including in-situ sample preparation, scanning probe microscopy, x-ray photoemission spectroscopy, Auger electron spectroscopy, and low-energy electron diffraction. I managed three graduate students and we developed processes to clean and hydrogen passivate Si (100), write features in the hydrogen passivation with the scanning probe tip, and adsorb disilane to the features.
+
+
+**NC State University** - Graduate Research Assistant, Profs. Robert J. Nemanich and Griff L. Bilbro (August 2002 - August 2007).
+
+At NCSU I investigated thermionic energy conversion devices based on diamond electrodes. I developed a comprehensive model of electron transport through the device which could account for emission from a diamond cathode featuring negative electron affinity. I implemented the model initially in MATLAB and later refactored in python. I also investigated negative electron affinity amorphous carbon films for the [Interstellar Boundary Explorer (IBEX)](http://www.nasa.gov/mission_pages/ibex/index.html) mission in collaboration with Lockheed Martin. I developed a hydrogen passivation process for the amorphous carbon films and characterized the negative electron affinity with ultraviolet photoemission spectroscopy. I applied this process to amorphous carbon facets which were used as part of the IBEX-Lo detector. The IBEX space probe was launched October 19, 2008.
+
 
 **NC State University** - Undergraduate Researcher, Prof. Lubos Mitas (August 2001 - May 2002).  
 Monte Carlo computational molecular dynamics.
@@ -50,6 +58,11 @@ Education
 - **B.S.** Physics, Cum Laude, NC State University, 2002
 - **B.S.** Mathematics, Cum Laude, NC State University, 2002
 - **High School** North Carolina School of Science and Mathematics, 1998
+
+
+Skills and capabilities
+=======================
+My specialty is developing mathematical models of physical systems and implementing them in software using industry-standard software development practices. I have experience with the version control systems subversion and git, the programming languages python and MATLAB, continuous integration with Travis-CI, and project management with GitHub. I also have extensive experience with experimental surface science, ultrahigh vacuum equipment, and laboratory operations.
 
 
 Teaching
