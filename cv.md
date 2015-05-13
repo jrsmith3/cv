@@ -20,27 +20,27 @@ I study energy conversion devices based on wide-bandgap semiconductors, specific
 
 Experience
 ==========
-- **US Army Research Laboratory** - ORAU Senior Researcher, Sensors and Electron Devices Directorate (August 2011 - Present).  
+**US Army Research Laboratory** - ORAU Senior Researcher, Sensors and Electron Devices Directorate (August 2011 - Present).  
 Thermoelectron energy conversion, GaN betavoltaics, Schottky diodes, and high electron mobility transistors.
 
-- **Carnegie Mellon University** - Postdoctoral Researcher, Prof. Robert Davis (June 2008 - July 2011).  
+**Carnegie Mellon University** - Postdoctoral Researcher, Prof. Robert Davis (June 2008 - July 2011).  
 Probe microscopy nanomanipulation and manufacturing.
 
-- **NC State University** - Graduate Research Assistant, Profs. Robert J. Nemanich and Griff L. Bilbro (August 2002 - August 2007).  
+**NC State University** - Graduate Research Assistant, Profs. Robert J. Nemanich and Griff L. Bilbro (August 2002 - August 2007).  
 Thermoelectron emission and energy conversion from diamond.
 
-- **NC State University** - Undergraduate Researcher, Prof. Lubos Mitas (August 2001 - May 2002).  
+**NC State University** - Undergraduate Researcher, Prof. Lubos Mitas (August 2001 - May 2002).  
 Monte Carlo computational molecular dynamics.
 
-- **NC State University** - Research Experience for Undergraduates Program, Prof. Lubos Mitas (May 2001 - August 2001).  
+**NC State University** - Research Experience for Undergraduates Program, Prof. Lubos Mitas (May 2001 - August 2001).  
 Monte Carlo computational molecular dynamics
 
-- **Physics Tutorial Center, NC State University** - Tutor (August 1998 - May 2000).  
+**Physics Tutorial Center, NC State University** - Tutor (August 1998 - May 2000).  
 
-- **Triangle Learning Consultants,** Raleigh, NC - Tutor (August 2000 - August 2002).  
+**Triangle Learning Consultants,** Raleigh, NC - Tutor (August 2000 - August 2002).  
 High school mathematics tutoring.
 
-- **Johnson Controls,** Charlotte, NC - Engineering Assistant (Summer 1999, Summer 2000).  
+**Johnson Controls,** Charlotte, NC - Engineering Assistant (Summer 1999, Summer 2000).  
 AutoCAD
 
 
