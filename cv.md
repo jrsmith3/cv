@@ -26,7 +26,7 @@ Experience
 
 At ARL I have investigated radioisotope batteries, namely betavoltaic and betaphotovoltaic devices. Our team demonstrated a working GaN based betavoltaic device -- I specified the structure, verified the devices using electron beam induced current scanning tunneling microscopy, and guided the devices through the various fabrication and characterization steps. For the betaphotovoltaic part of the project, I specified the AlGaN photovoltaic structure and developed a process of electrophoretic deposition to apply phosphor to the photovoltaic devices post-fabrication. 
 
-In addition to the radioisotope batteries, I developed a model of electron transport through a thermoelectron energy conversion device featuring a negative electron affinity anode. The software I wrote for this project is used by university research groups and a startup company. This work was recognized by [ARL](http://www.arl.army.mil/www/default.cfm?article=2462) as well as the [offcial homepage of the US Army](http://www.army.mil/article/123473/Visiting_Army_scientist_makes_discoveries_in_emerging_technology/).
+In addition to the radioisotope batteries, I developed a model of electron transport through a thermoelectron energy conversion device featuring a negative electron affinity anode. The software I wrote for this project is used by university research groups and a startup company. This work was recognized by [ARL](http://www.arl.army.mil/www/default.cfm?article=2462) as well as the [official homepage of the US Army](http://www.army.mil/article/123473/Visiting_Army_scientist_makes_discoveries_in_emerging_technology/).
 
 
 **Carnegie Mellon University** - Postdoctoral Researcher, Prof. Robert Davis (June 2008 - July 2011).
