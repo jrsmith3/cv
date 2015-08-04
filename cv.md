@@ -69,6 +69,7 @@ My specialty is developing mathematical models of physical systems and implement
 
 Teaching
 ========
+- Software Carpentry Workshop, National Institute of Standards and Technology, Gaithersburg MD. July 23-24, 2015
 - Software Carpentry Bootcamp, Carnegie Mellon University. July 27-28, 2013
 - Software Carpentry Bootcamp, Johns Hopkins University. June 18-19, 2012
 - Software Carpentry Bootcamp, University of Chicago. April 2-3, 2012
