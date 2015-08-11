@@ -1,10 +1,3 @@
-Title: Curriculum Vitae
-Date: 2014-03-15 16:02
-Category: about
-Author: Joshua Ryan Smith
-Summary: Information
-
-
 Joshua Ryan Smith
 =================
 joshua.r.smith@gmail.com  
