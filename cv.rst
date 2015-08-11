@@ -3,8 +3,8 @@ Joshua Ryan Smith
 
 | joshua.r.smith@gmail.com
 | (919) 413.0396
-| `ORCID <http://orcid.org/0000-0002-3137-7180>`__
-| `github <http://github.com/jrsmith3>`__
+| `ORCID <http://orcid.org/0000-0002-3137-7180>`_
+| `github <http://github.com/jrsmith3>`_
 
 Summary
 =======
@@ -41,9 +41,9 @@ electron transport through a thermoelectron energy conversion device
 featuring a negative electron affinity anode. The software I wrote for
 this project is used by university research groups and a startup
 company. This work was recognized by
-`ARL <http://www.arl.army.mil/www/default.cfm?article=2462>`__ as well
+`ARL <http://www.arl.army.mil/www/default.cfm?article=2462>`_ as well
 as the `official homepage of the US
-Army <http://www.army.mil/article/123473/Visiting_Army_scientist_makes_discoveries_in_emerging_technology/>`__.
+Army <http://www.army.mil/article/123473/Visiting_Army_scientist_makes_discoveries_in_emerging_technology/>`_.
 
 **Carnegie Mellon University** - Postdoctoral Researcher, Prof. Robert
 Davis (June 2008 - July 2011).
@@ -51,7 +51,7 @@ Davis (June 2008 - July 2011).
 At CMU I was the lead postdoc on a project to develop a nanolithography
 technique using a scanning tunneling microscope tip as a stylus. During
 this time I built the `TFAN nanolithography/surface science
-laboratory <https://www.flickr.com/groups/tfan/>`__ from scratch. This
+laboratory <https://www.flickr.com/groups/tfan/>`_ from scratch. This
 lab featured an ultrahigh vacuum surface analysis system including
 in-situ sample preparation, scanning probe microscopy, x-ray
 photoemission spectroscopy, Auger electron spectroscopy, and low-energy
@@ -70,31 +70,36 @@ diamond cathode featuring negative electron affinity. I implemented the
 model initially in MATLAB and later refactored in python. I also
 investigated negative electron affinity amorphous carbon films for the
 `Interstellar Boundary Explorer
-(IBEX) <http://www.nasa.gov/mission_pages/ibex/index.html>`__ mission in
+(IBEX) <http://www.nasa.gov/mission_pages/ibex/index.html>`_ mission in
 collaboration with Lockheed Martin. I developed a hydrogen passivation
 process for the amorphous carbon films and characterized the negative
 electron affinity with ultraviolet photoemission spectroscopy. I applied
 this process to amorphous carbon facets which were used as part of the
 IBEX-Lo detector. The IBEX space probe was launched October 19, 2008.
 
-| **NC State University** - Undergraduate Researcher, Prof. Lubos Mitas
+**NC State University** - Undergraduate Researcher, Prof. Lubos Mitas
 (August 2001 - May 2002).
-| Monte Carlo computational molecular dynamics.
 
-| **NC State University** - Research Experience for Undergraduates
+Monte Carlo computational molecular dynamics.
+
+**NC State University** - Research Experience for Undergraduates
 Program, Prof. Lubos Mitas (May 2001 - August 2001).
-| Monte Carlo computational molecular dynamics
+
+Monte Carlo computational molecular dynamics
 
 **Physics Tutorial Center, NC State University** - Tutor (August 1998 -
 May 2000).
 
-| **Triangle Learning Consultants,** Raleigh, NC - Tutor (August 2000 -
+**Triangle Learning Consultants,** Raleigh, NC - Tutor (August 2000 -
 August 2002).
-| High school mathematics tutoring.
 
-| **Johnson Controls,** Charlotte, NC - Engineering Assistant (Summer
+High school mathematics tutoring.
+
+**Johnson Controls,** Charlotte, NC - Engineering Assistant (Summer
 1999, Summer 2000).
-| AutoCAD
+
+AutoCAD
+
 
 Education
 =========
@@ -156,9 +161,7 @@ Poland, Portugal, Spain, Turkey, Ukraine.
 Dissertation
 ============
 
-**`Thermionic Energy Conversion and Particle Detection Using Diamond and
-Diamond-Like Carbon
-Surfaces <http://www.lib.ncsu.edu/resolver/1840.16/3107>`__**
+`Thermionic Energy Conversion and Particle Detection Using Diamond and Diamond-Like Carbon Surfaces <http://www.lib.ncsu.edu/resolver/1840.16/3107>`_
 
 Committee: Robert J. Nemanich (co-chair), Griff Bilbro (co-chair), David
 Aspnes, Thomas Perl
@@ -166,9 +169,9 @@ Aspnes, Thomas Perl
 Selected Software
 =================
 
--  `tec <http://jrsmith3.github.io/tec/>`__ - Utilities for simulating
+-  `tec <http://jrsmith3.github.io/tec/>`_ - Utilities for simulating
    vacuum thermionic energy conversion devices.
--  `ibei <http://ibei.readthedocs.org/en/latest/>`__ - Calculator for
+-  `ibei <http://ibei.readthedocs.org/en/latest/>`_ - Calculator for
    incomplete Bose-Einstein integral.
 
 Publications
@@ -178,50 +181,50 @@ Tompkins, R.P., **Smith, J.R.**, Kirchner, K.W., Jones, K.A., Leach,
 J.H., Udwary, K., Preble, E., Suvarna, P., Leathersich, J.M.,
 Shahedipour-Sandvik, F. `GaN Power Schottky Diodes with Drift Layers
 Grown on Four
-Substrates <http://dx.doi.org/10.1007/s11664-014-3021-9>`__. Journal of
+Substrates <http://dx.doi.org/10.1007/s11664-014-3021-9>`_. Journal of
 Electronic Materials, 2014; 43 (4): 850-856
 
 **Smith, J.R.** `Increasing the efficiency of a thermionic engine using
 a negative electron affinity
-collector <http://dx.doi.org/10.1063/1.4826202>`__. Journal of Applied
+collector <http://dx.doi.org/10.1063/1.4826202>`_. Journal of Applied
 Physics, 2013; 114: 164514
 
 Tompkins, R.P., **Smith, J.R.**, Kirchner, K.W., Jones, K.A., Preble,
 E., Leach, J., Mulholland, G., Suvarna, P., Tungare, M.,
 Shahedipour-Sandvik, F. `GaN Power Schottky
-Diodes <http://dx.doi.org/10.1149/1.3701521>`__. ECS Transactions 2012;
+Diodes <http://dx.doi.org/10.1149/1.3701521>`_. ECS Transactions 2012;
 45 (7): 17-25
 
 **Smith, J.R.**, Bilbro, G., Nemanich, R. `Theory of space charge
 limited regime of thermionic energy converter with negative electron
-affinity emitter <http://dx.doi.org/10.1116/1.3125282>`__. Journal of
+affinity emitter <http://dx.doi.org/10.1116/1.3125282>`_. Journal of
 Vacuum Science and Technology B, 2009; 27: 1132-1141
 
 **Smith, J.R.**, Bilbro, G., Nemanich, R. `Considerations for a high
 performance thermionic energy conversion device based on an NEA
-emitter <http://dx.doi.org/10.1103/PhysRevB.76.245327>`__. Physical
+emitter <http://dx.doi.org/10.1103/PhysRevB.76.245327>`_. Physical
 Review B, 2007; 76: 245327-245332
 
 **Smith, J.R.**, Bilbro, G., Nemanich, R. `Using negative electron
 affinity diamond emitters to mitigate space charge in vacuum thermionic
 energy conversion
-devices <http://dx.doi.org/10.1016/j.diamond.2006.09.011>`__. Diamond
+devices <http://dx.doi.org/10.1016/j.diamond.2006.09.011>`_. Diamond
 and Related Materials, 2006; 15: 2082-2085.
 
 **Smith, J.R.**, Bilbro, G., Nemanich, R. `The effect of Schottky
 barrier lowering and nonplanar emitter geometry on the performance of a
 thermionic energy
-converter <http://dx.doi.org/10.1016/j.diamond.2005.12.057>`__. Diamond
+converter <http://dx.doi.org/10.1016/j.diamond.2005.12.057>`_. Diamond
 and Related Materials, 2006; 15: 870-874.
 
 Smith, R.C., Seelecke, S., Ounaies, Z., **Smith, J.R.** `A Free Energy
 Model for Hysteresis in Ferroelectric
-Materials <http://dx.doi.org/10.1177/1045389X03038841>`__. Journal of
+Materials <http://dx.doi.org/10.1177/1045389X03038841>`_. Journal of
 Intelligent Material Systems and Structures, Nov 2003; 14: 719 - 739.
 
 Smith, R.C., Salapaka, M.V., Hatch, A., **Smith, J.R.**, De, T. `Model
 Development and Inverse Compensator Design for High Speed
-Nanopositioning <http://dx.doi.org/10.1109/CDC.2002.1184930>`__.
+Nanopositioning <http://dx.doi.org/10.1109/CDC.2002.1184930>`_.
 Proceedings of the 41st IEEE Conference on Decision and Control,
 2002.Volume: 4,10-13 Dec. 2002 Pages:3652 - 3657 vol.4
 
@@ -306,7 +309,7 @@ Posters
 
 **Smith, J.R.** November 2014. `Beta-enhanced thermoelectron emission
 and energy
-conversion <https://github.com/jrsmith3/conf-mrs_fall_2014_poster/releases>`__,
+conversion <https://github.com/jrsmith3/conf-mrs_fall_2014_poster/releases>`_,
 Boston, MA.
 
 **Smith, J.R.** August 2013. Simulated thermionic engine performance
