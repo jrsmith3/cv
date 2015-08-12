@@ -40,10 +40,8 @@ In addition to the radioisotope batteries, I developed a model of
 electron transport through a thermoelectron energy conversion device
 featuring a negative electron affinity anode. The software I wrote for
 this project is used by university research groups and a startup
-company. This work was recognized by
-`ARL <http://www.arl.army.mil/www/default.cfm?article=2462>`_ as well
-as the `official homepage of the US
-Army <http://www.army.mil/article/123473/Visiting_Army_scientist_makes_discoveries_in_emerging_technology/>`_.
+company. 
+This work was `recognized by ARL <http://www.arl.army.mil/www/default.cfm?article=2462>`_ as well as the `official homepage of the US Army <http://www.army.mil/article/123473/Visiting_Army_scientist_makes_discoveries_in_emerging_technology/>`_.
 
 **Carnegie Mellon University** - Postdoctoral Researcher, Prof. Robert
 Davis (June 2008 - July 2011).
