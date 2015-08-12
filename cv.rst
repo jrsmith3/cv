@@ -124,8 +124,8 @@ science, ultrahigh vacuum equipment, and laboratory operations.
 Teaching
 ========
 
--  Software Carpentry Workshop, National Institute of Standards and
-   Technology, Gaithersburg MD. July 23-24, 2015
+-  `Software Carpentry Workshop, National Institute of Standards and
+   Technology, Gaithersburg MD. July 23-24, 2015 <https://pages.nist.gov/2015-07-23-nist/>`_
 -  Software Carpentry Bootcamp, Carnegie Mellon University. July 27-28,
    2013
 -  Software Carpentry Bootcamp, Johns Hopkins University. June 18-19,
