@@ -226,6 +226,11 @@ Nanopositioning <http://dx.doi.org/10.1109/CDC.2002.1184930>`_.
 Proceedings of the 41st IEEE Conference on Decision and Control,
 2002.Volume: 4,10-13 Dec. 2002 Pages:3652 - 3657 vol.4
 
+Invited Presentations
+=====================
+**Smith, J.R.** September 2015. Achieving >20% efficiency using a vacuum thermionic energy converter featuring a diamond anode. University of British Columbia.
+
+
 Presentations
 =============
 
