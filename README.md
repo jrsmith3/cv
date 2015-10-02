@@ -12,9 +12,9 @@ Converting from rst to LaTeX/PDF
 --------------------------------
 1. Create a new branch from master.
 2. Convert the rst to LaTeX using pandoc, git add the LaTeX, git rm the rst, and commit the conversion.
-```
-pandoc -o cv.tex cv.rst
-```
+
+        pandoc -o cv.tex cv.rst
+
 3. Attempt to merge the new branch into pdf. Fix any merge conflicts.
 4. Manually edit the resulting LaTeX until an acceptably formatted PDF is produced.
 
