@@ -116,7 +116,8 @@ implementing them in software using industry-standard software
 development practices. I have experience with the version control
 systems subversion and git, the programming languages python and MATLAB, SQLite databases, 
 continuous integration with Travis-CI, and project management with
-GitHub. I also have extensive experience with experimental surface
+GitHub. I regularly use and administer GNU/Linux (Ubuntu and RHEL) and OSX.
+I also have extensive experience with experimental surface
 science, ultrahigh vacuum equipment, and laboratory operations.
 
 Teaching
