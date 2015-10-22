@@ -229,6 +229,11 @@ Nanopositioning <http://dx.doi.org/10.1109/CDC.2002.1184930>`_.
 Proceedings of the 41st IEEE Conference on Decision and Control,
 2002.Volume: 4,10-13 Dec. 2002 Pages:3652 - 3657 vol.4
 
+Non-refereed Publications
+=========================
+Khan, M.R., **Smith, J.R.**, Kirchner, K., Jones, K.A. `Applying LaPO4 Phosphor via Spinning for BetaPhotovoltaic Devices <http://www.dtic.mil/docs/citations/ADA621659>`_. US Army Research Laboratory Technical Report ARL-TR-7269, June 2015
+
+
 Invited Presentations
 =====================
 **Smith, J.R.** September 2015. Achieving >20% efficiency using a vacuum thermionic energy converter featuring a diamond anode. University of British Columbia.
