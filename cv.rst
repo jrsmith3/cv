@@ -23,8 +23,11 @@ thermionic emission).
 Experience
 ==========
 
+**Xometry** - Senior Computational Scientist (February 2016 - 
+Present).
+
 **US Army Research Laboratory** - ORAU Senior Researcher, Sensors and
-Electron Devices Directorate (August 2011 - Present).
+Electron Devices Directorate (August 2011 - February 2016).
 
 At ARL I have investigated radioisotope batteries, namely betavoltaic
 and betaphotovoltaic devices. Our team demonstrated a working GaN based
