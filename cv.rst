@@ -167,8 +167,8 @@ Service
 Countries Visited
 =================
 
-Canada, France, Georgia, Germany, Greece, Italy, Morocco, Netherlands,
-Poland, Portugal, Spain, Turkey, Ukraine.
+Canada, France, Georgia, Germany, Greece, Hong Kong, Italy, Morocco,
+Netherlands, Poland, Portugal, Spain, Thailand, Turkey, Ukraine.
 
 Dissertation
 ============
