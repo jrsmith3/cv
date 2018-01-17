@@ -122,12 +122,15 @@ Education
 Skills and capabilities
 =======================
 
-My specialty is developing mathematical models of physical systems and
-implementing them in software using industry-standard software
-development practices. I have experience with the version control
-systems subversion and git, the programming languages python and MATLAB, SQLite databases, 
-continuous integration with Travis-CI, and project management with
-GitHub. I regularly use and administer GNU/Linux (Ubuntu and RHEL) and OSX.
+My specialty is leading technical teams building sophisticated
+computational applications that are key to an organization's success.
+My preferred language is python and I have extensive experience with
+the scientific python stack of numpy and scipy. I have architected
+distributed, asynchronous applications based on celery. I have built
+and deployed scalable applications using Docker. I have experience
+with the conda package manager and written conda recipes which perform
+automatic testing of the package.
+
 I also have extensive experience with experimental surface
 science, ultrahigh vacuum equipment, and laboratory operations.
 
