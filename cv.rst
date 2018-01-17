@@ -26,13 +26,22 @@ Experience
 **Xometry** - Senior Computational Scientist (February 2016 - 
 Present).
 
-Xometry is a manufacturing on demand service: customers can upload
-their CAD models, receive an instant quote, and get parts fabricated
-by a nationwide network of manufacturers. At Xometry I lead the
-computational geometry team. It is our responsibility to write the
-algorithms that analyze the customers' CAD models as input to the
-machine learning pricing models. These algorithms must be fast,
-robust, and accurate.
+Xometry is a manufacturing on demand startup -- customers upload their
+CAD models, and our software analyzes the geometry and issues an
+instant quote for manufacture via CNC, 3D printing, and a number of
+other processes. I lead the team that develops and implements the
+computational geometry algorithms to identify geometric features that
+drive the price of the parts. My team of 5 reports includes PhD and
+MSc level members with degrees in Computer Science, Mechanical
+Engineering, and Chemical Engineering with a focus in Computational
+Fluid Dynamics.
+
+In addition to managing the team, I architected the computational
+geometry application, and I developed the Docker-based deployment
+process of the application. Our app is a model of unit test coverage
+within the company. The geometry application is a key piece of the
+technology stack at the center of Xometry's value proposition.
+
 
 **US Army Research Laboratory** - ORAU Senior Researcher, Sensors and
 Electron Devices Directorate (August 2011 - February 2016).
