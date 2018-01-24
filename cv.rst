@@ -9,16 +9,12 @@ Joshua Ryan Smith
 Summary
 =======
 
-I have expertise in developing physics-based models of physical systems
-and developing the software to implement them. In the past, I have
-worked on nanolithography using a scanning tunneling microscope as a
-stylus, and surface science including x-ray photoemission spectroscopy,
-Auger electron spectroscopy, and low-energy electron diffraction.
+I have expertise in leading technical teams which build sophisticated
+computational applications. Prior to my current position, I worked in
+fundamental scientific research investigating the physics of energy
+conversion devices, nanolithography, and wide-bandgap semiconductor
+power devices.
 
-I study energy conversion devices based on wide-bandgap semiconductors,
-specifically the III-nitrides. I am particularly interested in
-thermoelectron emission and energy conversion (sometimes called
-thermionic emission).
 
 Experience
 ==========
@@ -26,15 +22,16 @@ Experience
 **Xometry** - Senior Computational Scientist (February 2016 - 
 Present).
 
-Xometry is a manufacturing on demand startup -- customers upload their
-CAD models, and our software analyzes the geometry and issues an
-instant quote for manufacture via CNC, 3D printing, and a number of
-other processes. I lead the team that develops and implements the
-computational geometry algorithms to identify geometric features that
-drive the price of the parts. My team of 5 reports includes PhD and
-MSc level members with degrees in Computer Science, Mechanical
-Engineering, and Chemical Engineering with a focus in Computational
-Fluid Dynamics.
+Xometry is a manufacturing on demand startup -- our customers upload
+their CAD models, and our software analyzes the geometry and issues an
+instant quote for manufacture. Xometry quotes a variety of
+manufacturing processes including 3D printing, CNC machining, sheet
+metal, and a number of others.  I lead the team that develops and
+implements the computational geometry algorithms to identify geometric
+features that drive the price of the parts. My team of 5 reports
+includes PhD and MSc level members with degrees in Computer Science,
+Mechanical Engineering, and Chemical Engineering with a focus in
+Computational Fluid Dynamics.
 
 In addition to managing the team, I architected the computational
 geometry application, and I developed the Docker-based deployment
@@ -133,12 +130,11 @@ Skills and capabilities
 
 My specialty is leading technical teams building sophisticated
 computational applications that are key to an organization's success.
-My preferred language is python and I have extensive experience with
-the scientific python stack of numpy and scipy. I have architected
-distributed, asynchronous applications based on celery. I have built
-and deployed scalable applications using Docker. I have experience
-with the conda package manager and written conda recipes which perform
-automatic testing of the package.
+I have extensive experience with Python, numpy, and scipy. I have
+architected distributed, asynchronous applications based on the celery
+asynchronous task queue. I drove adoption of deployment via Docker in
+my current organization, and I wrote the original Dockerfile for my
+team's microservice.
 
 I also have extensive experience with experimental surface
 science, ultrahigh vacuum equipment, and laboratory operations.
