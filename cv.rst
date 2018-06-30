@@ -19,8 +19,24 @@ power devices.
 Experience
 ==========
 
-**Xometry** - Senior Computational Scientist (February 2016 - 
+**Xometry** - Director of Computational Geometry (June 2018 - 
 Present).
+
+I lead the team that develops and implements the computational 
+geometry algorithms to identify geometric features that drive the 
+price of the parts. My team of 5 reports includes PhD and MSc level 
+members with degrees in Computer Science, Mechanical Engineering, and 
+Chemical Engineering with a focus in Computational Fluid Dynamics.
+
+In addition to managing the team, I architected the computational 
+geometry application, and I developed the Docker-based deployment 
+process of the application. Our app is a model of unit test coverage 
+within the company. The geometry application is a key piece of the 
+technology stack at the center of Xometry's value proposition.
+
+
+**Xometry** - Senior Computational Scientist (February 2016 - 
+June 2018).
 
 Xometry is a manufacturing on demand startup -- our customers upload
 their CAD models, and our software analyzes the geometry and issues an
