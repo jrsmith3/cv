@@ -19,12 +19,21 @@ power devices.
 Experience
 ==========
 
+**Xometry** - Director of Data Engineering (Sept 2018 - Present).
+
+The Data Engineering team at Xometry is responsible for maintaining
+production quality code which handles or manipulates data. Our first
+and current project is rearchitect Xometry's quoting flow such that
+the web client and geometry/pricing backend communication is
+asynchronous. In this role I manage two senior software engineers.
+
+
 **Xometry** - Director of Computational Geometry (June 2018 - 
-Present).
+Sept 2018).
 
 I lead the team that develops and implements the computational 
 geometry algorithms to identify geometric features that drive the 
-price of the parts. My team of 5 reports includes PhD and MSc level 
+price of the parts. My team of 5 reports included PhD and MSc level 
 members with degrees in Computer Science, Mechanical Engineering, and 
 Chemical Engineering with a focus in Computational Fluid Dynamics.
 
