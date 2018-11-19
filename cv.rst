@@ -164,6 +164,16 @@ team's microservice.
 I also have extensive experience with experimental surface
 science, ultrahigh vacuum equipment, and laboratory operations.
 
+
+Patents
+=======
+
+Valerie R. Coffman, Yuan Chen, Luke S. Hendrix, William J. Sankey, Joshua Ryan
+Smith, and Daniel Wheeler. Methods and apparatus for machine learning
+predictions of manufacture processes. U.S. Patent 15,340,338 filed 2016-11-01.
+Pending.
+
+
 Teaching
 ========
 
