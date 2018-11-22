@@ -193,12 +193,6 @@ Honors and Awards
 -  COMAP Mathematical Contest in Modeling 2002, Meritorious Submission
 -  Eagle Scout Award, 1996
 
-Professional Affiliations
-=========================
-
--  Member, Materials Research Society
--  Member, American Physical Society
-
 Service
 =======
 
