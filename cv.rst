@@ -19,7 +19,13 @@ power devices.
 Experience
 ==========
 
-**Xometry** - Director of Data Engineering (Sept 2018 - Present).
+**Capital One** - Lead Data Engineer (March 2019 - Present).
+
+I am the technical lead for the Loss Forecasting solution used by the Card
+Credit Risk Management team.
+
+
+**Xometry** - Director of Data Engineering (Sept 2018 - March 2019).
 
 The Data Engineering team at Xometry is responsible for maintaining
 production quality code which handles or manipulates data. Our first
