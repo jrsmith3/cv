@@ -10,7 +10,7 @@ Summary
 =======
 
 I have expertise in leading technical teams which build sophisticated
-computational applications. Prior to my current position, I worked in
+computational applications. Prior to working in software, I worked in
 fundamental scientific research investigating the physics of energy
 conversion devices, nanolithography, and wide-bandgap semiconductor
 power devices.
@@ -21,8 +21,8 @@ Experience
 
 **Capital One** - Lead Data Engineer (March 2019 - Present).
 
-I am the technical lead for the Loss Forecasting solution used by the Card
-Credit Risk Management team.
+I am the technical lead for the Loss Forecasting solution used by the
+Credit Risk Management team for Card.
 
 
 **Xometry** - Director of Data Engineering (Sept 2018 - March 2019).
