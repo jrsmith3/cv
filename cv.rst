@@ -176,8 +176,8 @@ Patents
 
 Valerie R. Coffman, Yuan Chen, Luke S. Hendrix, William J. Sankey, Joshua Ryan
 Smith, and Daniel Wheeler. Methods and apparatus for machine learning
-predictions of manufacture processes. U.S. Patent 15,340,338 filed 2016-11-01.
-Pending.
+predictions of manufacture processes. U.S. Patent 15,340,338 granted
+2019-05-07.
 
 
 Teaching
