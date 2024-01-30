@@ -2,7 +2,6 @@ Joshua Ryan Smith
 =================
 
 | joshua.r.smith@gmail.com
-| (919) 413.0396
 | `ORCID <http://orcid.org/0000-0002-3137-7180>`_
 | `github <http://github.com/jrsmith3>`_
 
