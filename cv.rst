@@ -19,10 +19,26 @@ power devices.
 Experience
 ==========
 
-**Capital One** - Lead Data Engineer (March 2019 - Present).
+**Capital One** - Senior Data Engineering Manager (March 2019 - Present).
 
-I am the technical lead for the Loss Forecasting solution used by the
-Credit Risk Management team for Card.
+Since August 2023 I have managed the two teams of the OnePassport
+application which provides access to all enterprise RDS and DynamoDB
+instances for the SCAN and Metabot applications.
+
+From May of 2022 to August of 2023 I managed six teams across four
+applications: Metabot (dataset inventory), Datastore Inventory, Data
+Retention, and Data Governance Suite.
+
+From November 2020 to May of 2022 I managed two teams for the
+processor and orchestration components of the SCAN application. SCAN
+searches for highly sensitive human data such as SSN, credit card
+number, etc. in S3. In 2021 my teams successfully processed more than
+100 PB of data at a rate averaging 500 TB/day to satisfy a regulatory
+requirement.
+
+From March 2019 to November 2020 I was the technical lead for the Loss
+Forecasting solution used by the Credit Risk Management team for
+Card.
 
 
 **Xometry** - Director of Data Engineering (Sept 2018 - March 2019).
