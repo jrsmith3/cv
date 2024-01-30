@@ -2,14 +2,14 @@ Joshua Ryan Smith
 =================
 
 | joshua.r.smith@gmail.com
-| (919) 413.0396
 | `ORCID <http://orcid.org/0000-0002-3137-7180>`_
 | `github <http://github.com/jrsmith3>`_
 
 Summary
 =======
 
-I have expertise in leading technical teams which build sophisticated
+I have expertise in leading technical teams which build high
+throughput (petabytes) data engineering and sophsiticated
 computational applications. Prior to working in software, I worked in
 fundamental scientific research investigating the physics of energy
 conversion devices, nanolithography, and wide-bandgap semiconductor
@@ -19,10 +19,26 @@ power devices.
 Experience
 ==========
 
-**Capital One** - Lead Data Engineer (March 2019 - Present).
+**Capital One** - Senior Data Engineering Manager (March 2019 - Present).
 
-I am the technical lead for the Loss Forecasting solution used by the
-Credit Risk Management team for Card.
+Since August 2023 I have managed the two teams of the OnePassport
+application which provides access to all enterprise RDS and DynamoDB
+instances for the SCAN and Metabot applications.
+
+From May of 2022 to August of 2023 I managed six teams across four
+applications: Metabot (dataset inventory), Datastore Inventory, Data
+Retention, and Data Governance Suite.
+
+From November 2020 to May of 2022 I managed two teams for the
+processor and orchestration components of the SCAN application. SCAN
+searches for highly sensitive human data such as SSN, credit card
+number, etc. in S3. In 2021 my teams successfully processed more than
+100 PB of data at a rate averaging 500 TB/day to satisfy a regulatory
+requirement.
+
+From March 2019 to November 2020 I was the technical lead for the Loss
+Forecasting solution used by the Credit Risk Management team for
+Card.
 
 
 **Xometry** - Director of Data Engineering (Sept 2018 - March 2019).
@@ -202,6 +218,8 @@ Honors and Awards
 Service
 =======
 
+-  Scipy 2021 Program Committee Member
+-  Scipy 2020 Program Committee Member
 -  President, Graduate Physics Student Association (GPSA). April 2005 -
    April 2006
 -  University Graduate Student Assc. Representative. April 2003 - April
