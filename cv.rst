@@ -218,6 +218,8 @@ Honors and Awards
 Service
 =======
 
+-  Scipy 2021 Program Committee Member
+-  Scipy 2020 Program Committee Member
 -  President, Graduate Physics Student Association (GPSA). April 2005 -
    April 2006
 -  University Graduate Student Assc. Representative. April 2003 - April
