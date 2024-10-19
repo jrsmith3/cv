@@ -2,27 +2,43 @@ Joshua Ryan Smith
 =================
 
 | joshua.r.smith@gmail.com
-| (919) 413.0396
 | `ORCID <http://orcid.org/0000-0002-3137-7180>`_
 | `github <http://github.com/jrsmith3>`_
 
+
 Summary
 =======
-
-I have expertise in leading technical teams which build sophisticated
-computational applications. Prior to working in software, I worked in
-fundamental scientific research investigating the physics of energy
-conversion devices, nanolithography, and wide-bandgap semiconductor
-power devices.
+I am a seasoned leader of teams that build and maintain
+enterprise-scale data engineering and sophisticated computational
+applications. I drive results by investing in the members of my team
+and by establishing systems that facilitate excellence of my teams.
+My experience spans diverse industries such as financial services,
+advanced manufacturing, national defense, and academia.
 
 
 Experience
 ==========
 
-**Capital One** - Lead Data Engineer (March 2019 - Present).
+**Capital One** - Senior Data Engineering Manager (March 2019 - Present).
 
-I am the technical lead for the Loss Forecasting solution used by the
-Credit Risk Management team for Card.
+Since August 2023 I have managed the two teams of the OnePassport
+application which provides access to all enterprise RDS and DynamoDB
+instances for the SCAN and Metabot applications.
+
+From May of 2022 to August of 2023 I managed six teams across four
+applications: Metabot (dataset inventory), Datastore Inventory, Data
+Retention, and Data Governance Suite.
+
+From November 2020 to May of 2022 I managed two teams for the
+processor and orchestration components of the SCAN application. SCAN
+searches for highly sensitive human data such as SSN, credit card
+number, etc. in S3. In 2021 my teams successfully processed more than
+100 PB of data at a rate averaging 500 TB/day to satisfy a regulatory
+requirement.
+
+From March 2019 to November 2020 I was the technical lead for the Loss
+Forecasting solution used by the Credit Risk Management team for
+Card.
 
 
 **Xometry** - Director of Data Engineering (Sept 2018 - March 2019).
@@ -91,6 +107,7 @@ this project is used by university research groups and a startup
 company. 
 This work was `recognized by ARL <http://www.arl.army.mil/www/default.cfm?article=2462>`_ as well as the `official homepage of the US Army <http://www.army.mil/article/123473/Visiting_Army_scientist_makes_discoveries_in_emerging_technology/>`_.
 
+
 **Carnegie Mellon University** - Postdoctoral Researcher, Prof. Robert
 Davis (June 2008 - July 2011).
 
@@ -105,6 +122,7 @@ electron diffraction. I managed three graduate students and we developed
 processes to clean and hydrogen passivate Si (100), write features in
 the hydrogen passivation with the scanning probe tip, and adsorb
 disilane to the features.
+
 
 **NC State University** - Graduate Research Assistant, Profs. Robert J.
 Nemanich and Griff L. Bilbro (August 2002 - August 2007).
@@ -123,23 +141,28 @@ electron affinity with ultraviolet photoemission spectroscopy. I applied
 this process to amorphous carbon facets which were used as part of the
 IBEX-Lo detector. The IBEX space probe was launched October 19, 2008.
 
+
 **NC State University** - Undergraduate Researcher, Prof. Lubos Mitas
 (August 2001 - May 2002).
 
 Monte Carlo computational molecular dynamics.
+
 
 **NC State University** - Research Experience for Undergraduates
 Program, Prof. Lubos Mitas (May 2001 - August 2001).
 
 Monte Carlo computational molecular dynamics
 
+
 **Physics Tutorial Center, NC State University** - Tutor (August 1998 -
 May 2000).
+
 
 **Triangle Learning Consultants,** Raleigh, NC - Tutor (August 2000 -
 August 2002).
 
 High school mathematics tutoring.
+
 
 **Johnson Controls,** Charlotte, NC - Engineering Assistant (Summer
 1999, Summer 2000).
@@ -156,16 +179,19 @@ Education
 -  **High School** North Carolina School of Science and Mathematics,
    1998
 
+
 Skills and capabilities
 =======================
 
-My specialty is leading technical teams building sophisticated
-computational applications that are key to an organization's success.
-I have extensive experience with Python, numpy, and scipy. I have
-architected distributed, asynchronous applications based on the celery
-asynchronous task queue. I drove adoption of deployment via Docker in
-my current organization, and I wrote the original Dockerfile for my
-team's microservice.
+-  Technical leadership
+-  Software engineering management
+-  Python (advanced)
+-  AWS (Certified Solutions Architect - Associate)
+-  Ansible
+-  Docker
+-  Data modeling and architecture
+-  Asynchronous and distributed systems
+-  Computational physics and computational geometry
 
 I also have extensive experience with experimental surface
 science, ultrahigh vacuum equipment, and laboratory operations.
@@ -174,10 +200,10 @@ science, ultrahigh vacuum equipment, and laboratory operations.
 Patents
 =======
 
-Valerie R. Coffman, Yuan Chen, Luke S. Hendrix, William J. Sankey, Joshua Ryan
-Smith, and Daniel Wheeler. Methods and apparatus for machine learning
-predictions of manufacture processes. U.S. Patent 15,340,338 granted
-2019-05-07.
+Valerie R. Coffman, Yuan Chen, Luke S. Hendrix, William J. Sankey,
+**Joshua Ryan Smith**, and Daniel Wheeler. Methods and apparatus for
+machine learning predictions of manufacture processes. U.S. Patent
+15,340,338 granted 2019-05-07.
 
 
 Teaching
@@ -193,25 +219,31 @@ Teaching
    2012
 -  Software Carpentry Bootcamp, University of Chicago. April 2-3, 2012
 
+
 Honors and Awards
 =================
 
 -  COMAP Mathematical Contest in Modeling 2002, Meritorious Submission
 -  Eagle Scout Award, 1996
 
+
 Service
 =======
 
+-  Scipy 2021 Program Committee Member
+-  Scipy 2020 Program Committee Member
 -  President, Graduate Physics Student Association (GPSA). April 2005 -
    April 2006
 -  University Graduate Student Assc. Representative. April 2003 - April
    2005
 
+
 Countries Visited
 =================
+Belgium, Bermuda, Canada, France, Georgia, Germany, Greece, Hong Kong,
+Italy, Maldives, Mongolia, Morocco, Netherlands, Poland, Portugal,
+South Korea, Spain, Thailand, Turkey, Ukraine, United Arab Emirates
 
-Canada, France, Georgia, Germany, Greece, Hong Kong, Italy, Morocco,
-Netherlands, Poland, Portugal, Spain, Thailand, Turkey, Ukraine.
 
 Dissertation
 ============
@@ -221,6 +253,7 @@ Dissertation
 Committee: Robert J. Nemanich (co-chair), Griff Bilbro (co-chair), David
 Aspnes, Thomas Perl
 
+
 Selected Software
 =================
 
@@ -229,9 +262,9 @@ Selected Software
 -  `ibei <http://ibei.readthedocs.org/en/latest/>`_ - Calculator for
    incomplete Bose-Einstein integral.
 
+
 Publications
 ============
-
 Tompkins, R.P., **Smith, J.R.**, Kirchner, K.W., Jones, K.A., Leach,
 J.H., Udwary, K., Preble, E., Suvarna, P., Leathersich, J.M.,
 Shahedipour-Sandvik, F. `GaN Power Schottky Diodes with Drift Layers
@@ -282,6 +315,7 @@ Development and Inverse Compensator Design for High Speed
 Nanopositioning <http://dx.doi.org/10.1109/CDC.2002.1184930>`_.
 Proceedings of the 41st IEEE Conference on Decision and Control,
 2002.Volume: 4,10-13 Dec. 2002 Pages:3652 - 3657 vol.4
+
 
 Non-refereed Publications
 =========================
@@ -368,6 +402,7 @@ II Kickoff meeting, Raleigh, North Carolina.
 
 **Smith, J.R.** and Mitas, L. 2001. Molecular Dynamics Simulations. 2001
 Summer REU Program Presentations, Raleigh, North Carolina.
+
 
 Posters
 =======
