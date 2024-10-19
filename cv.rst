@@ -265,7 +265,6 @@ Selected Software
 
 Publications
 ============
-
 Tompkins, R.P., **Smith, J.R.**, Kirchner, K.W., Jones, K.A., Leach,
 J.H., Udwary, K., Preble, E., Suvarna, P., Leathersich, J.M.,
 Shahedipour-Sandvik, F. `GaN Power Schottky Diodes with Drift Layers
