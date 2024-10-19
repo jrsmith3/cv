@@ -183,15 +183,15 @@ Education
 Skills and capabilities
 =======================
 
-* Technical leadership
-* Software engineering management
-* Python (advanced)
-* AWS (Certified Solutions Architect - Associate)
-* Ansible
-* Docker
-* Data modeling and architecture
-* Asynchronous and distributed systems
-* Computational physics and computational geometry
+-  Technical leadership
+-  Software engineering management
+-  Python (advanced)
+-  AWS (Certified Solutions Architect - Associate)
+-  Ansible
+-  Docker
+-  Data modeling and architecture
+-  Asynchronous and distributed systems
+-  Computational physics and computational geometry
 
 I also have extensive experience with experimental surface
 science, ultrahigh vacuum equipment, and laboratory operations.
