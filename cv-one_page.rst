@@ -30,14 +30,14 @@ inventory data to identify millions of datasets. OnePassport, which
 my teams built from scratch to facilitate the export of all of
 Capital One's production RDS and DynamoDB resources (petabytes of
 data across thousands of instances) to be processed by SCAN and
-Metabot
+Metabot.
 
 
 **Xometry** - Director of Compultational Geometry (February 2016 -
 March 2019).
 
 Xometry is a marketplace that matches customers with manufacturers
-(CNC, 3D printing, injection moulding, and more) using AI. I led the
+(CNC, 3D printing, injection molding, and more) using AI. I led the
 team that developed the computational geometry application used as
 inputs to the ML model that determined prices. I architected the
 computational geometry application, and I developed the Docker-based
