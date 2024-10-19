@@ -240,9 +240,9 @@ Service
 
 Countries Visited
 =================
-
-Canada, France, Georgia, Germany, Greece, Hong Kong, Italy, Morocco,
-Netherlands, Poland, Portugal, Spain, Thailand, Turkey, Ukraine.
+Belgium, Bermuda, Canada, France, Georgia, Germany, Greece, Hong Kong,
+Italy, Maldives, Mongolia, Morocco, Netherlands, Poland, Portugal,
+South Korea, Spain, Thailand, Turkey, Ukraine, United Arab Emirates
 
 
 Dissertation
