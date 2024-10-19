@@ -5,6 +5,7 @@ Joshua Ryan Smith
 | `ORCID <http://orcid.org/0000-0002-3137-7180>`_
 | `github <http://github.com/jrsmith3>`_
 
+
 Summary
 =======
 
@@ -107,6 +108,7 @@ this project is used by university research groups and a startup
 company. 
 This work was `recognized by ARL <http://www.arl.army.mil/www/default.cfm?article=2462>`_ as well as the `official homepage of the US Army <http://www.army.mil/article/123473/Visiting_Army_scientist_makes_discoveries_in_emerging_technology/>`_.
 
+
 **Carnegie Mellon University** - Postdoctoral Researcher, Prof. Robert
 Davis (June 2008 - July 2011).
 
@@ -121,6 +123,7 @@ electron diffraction. I managed three graduate students and we developed
 processes to clean and hydrogen passivate Si (100), write features in
 the hydrogen passivation with the scanning probe tip, and adsorb
 disilane to the features.
+
 
 **NC State University** - Graduate Research Assistant, Profs. Robert J.
 Nemanich and Griff L. Bilbro (August 2002 - August 2007).
@@ -139,23 +142,28 @@ electron affinity with ultraviolet photoemission spectroscopy. I applied
 this process to amorphous carbon facets which were used as part of the
 IBEX-Lo detector. The IBEX space probe was launched October 19, 2008.
 
+
 **NC State University** - Undergraduate Researcher, Prof. Lubos Mitas
 (August 2001 - May 2002).
 
 Monte Carlo computational molecular dynamics.
+
 
 **NC State University** - Research Experience for Undergraduates
 Program, Prof. Lubos Mitas (May 2001 - August 2001).
 
 Monte Carlo computational molecular dynamics
 
+
 **Physics Tutorial Center, NC State University** - Tutor (August 1998 -
 May 2000).
+
 
 **Triangle Learning Consultants,** Raleigh, NC - Tutor (August 2000 -
 August 2002).
 
 High school mathematics tutoring.
+
 
 **Johnson Controls,** Charlotte, NC - Engineering Assistant (Summer
 1999, Summer 2000).
@@ -171,6 +179,7 @@ Education
 -  **B.S.** Mathematics, Cum Laude, NC State University, 2002
 -  **High School** North Carolina School of Science and Mathematics,
    1998
+
 
 Skills and capabilities
 =======================
@@ -209,11 +218,13 @@ Teaching
    2012
 -  Software Carpentry Bootcamp, University of Chicago. April 2-3, 2012
 
+
 Honors and Awards
 =================
 
 -  COMAP Mathematical Contest in Modeling 2002, Meritorious Submission
 -  Eagle Scout Award, 1996
+
 
 Service
 =======
@@ -225,11 +236,13 @@ Service
 -  University Graduate Student Assc. Representative. April 2003 - April
    2005
 
+
 Countries Visited
 =================
 
 Canada, France, Georgia, Germany, Greece, Hong Kong, Italy, Morocco,
 Netherlands, Poland, Portugal, Spain, Thailand, Turkey, Ukraine.
+
 
 Dissertation
 ============
@@ -239,6 +252,7 @@ Dissertation
 Committee: Robert J. Nemanich (co-chair), Griff Bilbro (co-chair), David
 Aspnes, Thomas Perl
 
+
 Selected Software
 =================
 
@@ -246,6 +260,7 @@ Selected Software
    vacuum thermionic energy conversion devices.
 -  `ibei <http://ibei.readthedocs.org/en/latest/>`_ - Calculator for
    incomplete Bose-Einstein integral.
+
 
 Publications
 ============
@@ -300,6 +315,7 @@ Development and Inverse Compensator Design for High Speed
 Nanopositioning <http://dx.doi.org/10.1109/CDC.2002.1184930>`_.
 Proceedings of the 41st IEEE Conference on Decision and Control,
 2002.Volume: 4,10-13 Dec. 2002 Pages:3652 - 3657 vol.4
+
 
 Non-refereed Publications
 =========================
@@ -386,6 +402,7 @@ II Kickoff meeting, Raleigh, North Carolina.
 
 **Smith, J.R.** and Mitas, L. 2001. Molecular Dynamics Simulations. 2001
 Summer REU Program Presentations, Raleigh, North Carolina.
+
 
 Posters
 =======
