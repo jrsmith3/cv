@@ -183,13 +183,15 @@ Education
 Skills and capabilities
 =======================
 
-My specialty is leading technical teams building sophisticated
-computational applications that are key to an organization's success.
-I have extensive experience with Python, numpy, and scipy. I have
-architected distributed, asynchronous applications based on the celery
-asynchronous task queue. I drove adoption of deployment via Docker in
-my current organization, and I wrote the original Dockerfile for my
-team's microservice.
+* Technical leadership
+* Software engineering management
+* Python (advanced)
+* AWS (Certified Solutions Architect - Associate)
+* Ansible
+* Docker
+* Data modeling and architecture
+* Asynchronous and distributed systems
+* Computational physics and computational geometry
 
 I also have extensive experience with experimental surface
 science, ultrahigh vacuum equipment, and laboratory operations.
