@@ -8,13 +8,12 @@ Joshua Ryan Smith
 
 Summary
 =======
-
-I have expertise in leading technical teams which build high
-throughput (petabytes) data engineering and sophsiticated
-computational applications. Prior to working in software, I worked in
-fundamental scientific research investigating the physics of energy
-conversion devices, nanolithography, and wide-bandgap semiconductor
-power devices.
+I am a seasoned leader of teams that build and maintain
+enterprise-scale data engineering and sophisticated computational
+applications. I drive results by investing in the members of my team
+and by establishing systems that facilitate excellence of my teams.
+My experience spans diverse industries such as financial services,
+advanced manufacturing, national defense, and academia.
 
 
 Experience
