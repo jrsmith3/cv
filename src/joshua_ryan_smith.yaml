@@ -134,10 +134,10 @@ cv:
             energy conversion device featuring a negative electron
             affinity anode. The software I wrote for this project is
             used by university research groups and a startup company.
-            This work was [recognized by ARL]
-            (https://web.archive.org/web/20161219145255/http://www.arl.army.mil/www/default.cfm?article=2462)
-            as well as the [official homepage of the US Army]
-            http://www.army.mil/article/123473/Visiting_Army_scientist_makes_discoveries_in_emerging_technology/).'
+            This work was
+            [recognized by ARL](https://web.archive.org/web/20161219145255/http://www.arl.army.mil/www/default.cfm?article=2462)
+            as well as the
+            [official homepage of the US Army](http://www.army.mil/article/123473/Visiting_Army_scientist_makes_discoveries_in_emerging_technology).'
 
       - company: Carnegie Mellon University
         position: Postdoctoral Researcher
@@ -237,10 +237,7 @@ cv:
         highlights:
           - 'Committee: Robert J. Nemanich (co-chair), Griff Bilbro
              (co-chair), David Aspnes, Thomas Perl'
-          - 'Dissertation: [Thermionic Energy Conversion and Particle
-             Detection Using Diamond and Diamond-Like Carbon
-             Surfaces]
-             (http://www.lib.ncsu.edu/resolver/1840.16/3107)'
+          - 'Dissertation: [Thermionic Energy Conversion and Particle Detection Using Diamond and Diamond-Like Carbon Surfaces](http://www.lib.ncsu.edu/resolver/1840.16/3107)'
 
       - institution: N.C. State University
         area: Physics
@@ -282,17 +279,12 @@ cv:
       - bullet: 'Coffman, V.R., Chen, Y., Hendrix, L.S., Sankey,
         W.J., **Smith, J.R.**, Wheeler, D., Methods and apparatus for
         machine learning predictions of manufacture processes.
-        [U.S. Patent 15,340,338]
-        (https://patents.google.com/patent/US10281902B2/) granted
-        2019-05-07.'
+        [U.S. Patent 15,340,338](https://patents.google.com/patent/US10281902B2/)
+        granted 2019-05-07.'
 
     teaching:
-      - bullet: '[Software Carpentry Workshop, National Institute of
-        Standards and Technology, Gaithersburg MD. September 23-24,
-        2015](https://pages.nist.gov/2015-09-23-nist)'
-      - bullet: '[Software Carpentry Workshop, National Institute of
-        Standards and Technology, Gaithersburg MD. July 23-24, 2015]
-        (https://pages.nist.gov/2015-07-23-nist)'
+      - bullet: '[Software Carpentry Workshop, National Institute of Standards and Technology, Gaithersburg MD. September 23-24, 2015](https://pages.nist.gov/2015-09-23-nist)'
+      - bullet: '[Software Carpentry Workshop, National Institute of Standards and Technology, Gaithersburg MD. July 23-24, 2015](https://pages.nist.gov/2015-07-23-nist)'
       - bullet: 'Software Carpentry Bootcamp, Carnegie Mellon
         University. July 27-28, 2013'
       - bullet: 'Software Carpentry Bootcamp, Johns Hopkins
@@ -320,12 +312,12 @@ cv:
          Ukraine, United Arab Emirates'
 
     selected_software:
-      - name: '[`tec`](http://jrsmith3.github.io/tec)'
+      - name: '[tec](http://jrsmith3.github.io/tec)'
         highlights:
           - 'Utilities for simulating vacuum thermionic energy
             conversion devices.'
 
-      - name: '[`ibei`](http://ibei.readthedocs.org/en/latest)'
+      - name: '[ibei](http://ibei.readthedocs.org/en/latest)'
         highlights:
           - 'Calculator for incomplete Bose-Einstein integral.'
 
@@ -568,8 +560,7 @@ cv:
 
     posters:
       - bullet: '**Smith, J.R.** November 2014.
-        [Beta-enhanced thermoelectron emission and energy conversion]
-        (https://github.com/jrsmith3/conf-mrs_fall_2014_poster/releases),
+        [Beta-enhanced thermoelectron emission and energy conversion](https://github.com/jrsmith3/conf-mrs_fall_2014_poster/releases),
         Boston, MA.'
       - bullet: '**Smith, J.R.** August 2013. Simulated thermionic
         engine performance using III-nitride, negative electron
