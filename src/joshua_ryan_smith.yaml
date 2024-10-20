@@ -1,0 +1,647 @@
+cv:
+  name: Joshua Ryan Smith
+  location: Washington, DC
+  email: joshua.r.smith@gmail.com
+  website: https://jrsmith3.github.io
+  social_networks:
+    - network: LinkedIn
+      username: joshuaryansmith
+    - network: GitHub
+      username: jrsmith3
+    - network: ORCID
+      username: 0000-0002-3137-7180
+  sections:
+    summary:
+      - 'I am a seasoned leader of teams that build and maintain
+        enterprise-scale data engineering and sophisticated
+        computational applications. I drive results by investing in
+        the members of my team and by establishing systems that
+        facilitate excellence of my teams. My experience spans
+        diverse industries such as financial services, advanced
+        manufacturing, national defense, and academia.'
+
+    experience:
+      - company: Capital One
+        position: Sr. Manager, Data Engineering
+        location: McLean, VA
+        start_date: 2019-03
+        end_date: present
+        highlights:
+          - 'Since August 2023 I have managed the two teams of the
+            OnePassport application which provides access to all
+            enterprise RDS and DynamoDB instances for the SCAN and
+            Metabot applications.
+
+            From May of 2022 to August of 2023 I managed six teams
+            across four applications: Metabot (dataset inventory),
+            Datastore Inventory, Data Retention, and Data Governance
+            Suite.
+
+            From November 2020 to May of 2022 I managed two teams for
+            the processor and orchestration components of the SCAN
+            application. SCAN searches for highly sensitive human
+            data such as SSN, credit card number, etc. in S3. In 2021
+            my teams successfully processed more than 100 PB of data
+            at a rate averaging 500 TB/day to satisfy a regulatory
+            requirement.
+
+            From March 2019 to November 2020 I was the technical lead
+            for the Loss Forecasting solution used by the Credit Risk
+            Management team for Card.'
+
+      - company: Xometry
+        position: Director of Data Engineering
+        location: Bethesda, MD
+        start_date: 2018-09
+        end_date: 2019-03
+        highlights:
+          - "The Data Engineering team at Xometry is responsible for
+            maintaining production quality code which handles or
+            manipulates data. Our first and current project is
+            rearchitect Xometry's quoting flow such that the web
+            client and geometry/pricing backend communication is
+            asynchronous. In this role I manage two senior software
+            engineers."
+
+      - company: Xometry
+        position: Director of Computational Geometry
+        location: Bethesda, MD
+        start_date: 2018-06
+        end_date: 2018-09
+        highlights:
+          - "I lead the team that develops and implements the
+            computational geometry algorithms to identify geometric
+            features that drive the price of the parts. My team of 5
+            reports included PhD and MSc level members with degrees
+            in Computer Science, Mechanical Engineering, and Chemical
+            Engineering with a focus in Computational Fluid
+            Dynamics.
+          
+            In addition to managing the team, I architected the
+            computational geometry application, and I developed the
+            Docker-based deployment process of the application. Our
+            app is a model of unit test coverage within the company.
+            The geometry application is a key piece of the technology
+            stack at the center of Xometry's value proposition."
+
+      - company: Xometry
+        position: Senior Computational Scientist
+        location: Bethesda, MD
+        start_date: 2016-02
+        end_date: 2018-06
+        highlights:
+          - "Xometry is a manufacturing on demand startup -- our
+            customers upload their CAD models, and our software
+            analyzes the geometry and issues an instant quote for
+            manufacture. Xometry quotes a variety of manufacturing
+            processes including 3D printing, CNC machining, sheet
+            metal, and a number of others.  I lead the team that
+            develops and implements the computational geometry
+            algorithms to identify geometric features that drive the
+            price of the parts. My team of 5 reports includes PhD and
+            MSc level members with degrees in Computer Science,
+            Mechanical Engineering, and Chemical Engineering with a
+            focus in Computational Fluid Dynamics.
+          
+            In addition to managing the team, I architected the
+            computational geometry application, and I developed the
+            Docker-based deployment process of the application. Our
+            app is a model of unit test coverage within the company.
+            The geometry application is a key piece of the technology
+            stack at the center of Xometry's value proposition."
+
+      - company: U.S. Army Research Laboratory
+        position: ORAU Senior Researcher
+        location: Adelphi, MD
+        start_date: 2011-08
+        end_date: 2016-02
+        highlights:
+          - 'Sensors and Electron Devices Directorate'
+          - 'At ARL I have investigated radioisotope batteries, namely
+            betavoltaic and betaphotovoltaic devices. Our team
+            demonstrated a working GaN based betavoltaic device -- I
+            specified the structure, verified the devices using
+            electron beam induced current scanning tunneling
+            microscopy, and guided the devices through the various
+            fabrication and characterization steps. For the
+            betaphotovoltaic part of the project, I specified the
+            AlGaN photovoltaic structure and developed a process of
+            electrophoretic deposition to apply phosphor to the
+            photovoltaic devices post-fabrication.
+
+            In addition to the radioisotope batteries, I developed a
+            model of electron transport through a thermoelectron
+            energy conversion device featuring a negative electron
+            affinity anode. The software I wrote for this project is
+            used by university research groups and a startup company.
+            This work was
+            [recognized by ARL](https://web.archive.org/web/20161219145255/http://www.arl.army.mil/www/default.cfm?article=2462)
+            as well as the
+            [official homepage of the US Army](http://www.army.mil/article/123473/Visiting_Army_scientist_makes_discoveries_in_emerging_technology).'
+
+      - company: Carnegie Mellon University
+        position: Postdoctoral Researcher
+        location: Pittsburgh, PA
+        start_date: 2008-06
+        end_date: 2011-07
+        highlights:
+          - 'Prof. Robert Davis'
+          - 'At CMU I was the lead postdoc on a project to develop a
+            nanolithography technique using a scanning tunneling
+            microscope tip as a stylus. During this time I built the
+            [TFAN nanolithography/surface science laboratory]
+            (https://www.flickr.com/groups/tfan) from scratch.
+            This lab featured an ultrahigh vacuum surface analysis
+            system including in-situ sample preparation, scanning
+            probe microscopy, x-ray photoemission spectroscopy, Auger
+            electron spectroscopy, and low-energy electron
+            diffraction. I managed three graduate students and we
+            developed processes to clean and hydrogen passivate Si
+            (100), write features in the hydrogen passivation with
+            the scanning probe tip, and adsorb disilane to the
+            features.'
+
+      - company: N.C. State University
+        position: Graduate Research Assistant
+        location: Raleigh, NC
+        start_date: 2002-08
+        end_date: 2007-08
+        highlights:
+          - 'Prof. Robert J. Nemanich and Prof. Griff L. Bilbro'
+          - 'At NCSU I investigated thermionic energy conversion
+            devices based on diamond electrodes. I developed a
+            comprehensive model of electron transport through the
+            device which could account for emission from a diamond
+            cathode featuring negative electron affinity. I
+            implemented the model initially in MATLAB and later
+            refactored in Python. I also investigated negative
+            electron affinity amorphous carbon films for the
+            [Interstellar Boundary Explorer (IBEX)]
+            (https://science.nasa.gov/mission/ibex) mission in
+            collaboration with Lockheed Martin. I developed a
+            hydrogen passivation process for the amorphous carbon
+            films and characterized the negative electron affinity
+            with ultraviolet photoemission spectroscopy. I applied
+            this process to amorphous carbon facets which were used
+            as part of the IBEX-Lo detector. The IBEX space probe was
+            launched October 19, 2008.'
+
+      - company: N.C. State University
+        position: Undergraduate Researcher
+        location: Raleigh, NC
+        start_date: 2001-08
+        end_date: 2002-05
+        highlights:
+          - 'Monte-Carlo computational molecular dynamics with Prof.
+            Lubos Mitas.'
+
+      - company: N.C. State University
+        position: Research Experience for Undergraduates
+        location: Raleigh, NC
+        start_date: 2001-05
+        end_date: 2001-08
+        highlights:
+          - 'Monte-Carlo computational molecular dynamics with Prof.
+            Lubos Mitas.'
+
+      - company: Triangle Learning Consultants
+        position: Tutor
+        location: Raleigh, NC
+        start_date: 2000-08
+        end_date: 2002-08
+        highlights:
+          - 'High school mathematics tutoring.'
+
+      - company: Physics Tutorial Center, N.C. State University
+        position: Tutor
+        location: Raleigh, NC
+        start_date: 1998-08
+        end_date: 2000-05
+        highlights:
+          - 'First and second year college physics tutoring.'
+
+      - company: Johnson Controls
+        position: Engineering Assistant
+        location: Charlotte, NC
+        date: Summer 1999 to Summer 2000
+        highlights:
+          - 'AutoCAD'
+
+    education:
+      - institution: N.C. State University
+        area: Physics
+        degree: Ph.D.
+        location: Raleigh, NC
+        start_date: 2002-08
+        end_date: 2007-12
+        highlights:
+          - 'Committee: Robert J. Nemanich (co-chair), Griff Bilbro
+             (co-chair), David Aspnes, Thomas Perl'
+          - 'Dissertation: [Thermionic Energy Conversion and Particle Detection Using Diamond and Diamond-Like Carbon Surfaces](http://www.lib.ncsu.edu/resolver/1840.16/3107)'
+
+      - institution: N.C. State University
+        area: Physics
+        degree: B.S.
+        location: Raleigh, NC
+        start_date: 1998-08
+        end_date: 2002-05
+        highlights:
+          - 'Cum Laude'
+
+      - institution: N.C. State University
+        area: Mathematics
+        degree: B.S.
+        location: Raleigh, NC
+        start_date: 1998-08
+        end_date: 2002-05
+        highlights:
+          - 'Cum Laude'
+
+      - institution: North Carolina School of Science and Mathematics
+        area: Physics and Mathematics
+        degree: High School
+        location: Durham, NC
+        start_date: 1996-08
+        end_date: 1998-05
+
+    skills:
+      - bullet: Technical leadership
+      - bullet: Software engineering management
+      - bullet: Python (advanced)
+      - bullet: AWS (Certified Solutions Architect - Associate)
+      - bullet: Ansible
+      - bullet: Docker
+      - bullet: Data modeling and architecture
+      - bullet: Asynchronous and distributed systems
+      - bullet: Computational physics and computational geometry
+
+    patents:
+      - bullet: 'Coffman, V.R., Chen, Y., Hendrix, L.S., Sankey,
+        W.J., **Smith, J.R.**, Wheeler, D., Methods and apparatus for
+        machine learning predictions of manufacture processes.
+        [U.S. Patent 15,340,338](https://patents.google.com/patent/US10281902B2/)
+        granted 2019-05-07.'
+
+    teaching:
+      - bullet: '[Software Carpentry Workshop, National Institute of Standards and Technology, Gaithersburg MD. September 23-24, 2015](https://pages.nist.gov/2015-09-23-nist)'
+      - bullet: '[Software Carpentry Workshop, National Institute of Standards and Technology, Gaithersburg MD. July 23-24, 2015](https://pages.nist.gov/2015-07-23-nist)'
+      - bullet: 'Software Carpentry Bootcamp, Carnegie Mellon
+        University. July 27-28, 2013'
+      - bullet: 'Software Carpentry Bootcamp, Johns Hopkins
+        University. June 18-19, 2012'
+      - bullet: 'Software Carpentry Bootcamp, University of Chicago.
+        April 2-3, 2012'
+
+    honors_and_awards:
+      - bullet: 'COMAP Mathematical Contest in Modeling 2002,
+        Meritorious Submission'
+      - bullet: Eagle Scout Award, 1996
+
+    service:
+      - bullet:  'Scipy 2021 Program Committee Member'
+      - bullet:  'Scipy 2020 Program Committee Member'
+      - bullet:  'President, Graduate Physics Student Association
+        (GPSA). April 2005 - April 2006'
+      - bullet: 'University Graduate Student Assc. Representative.
+        April 2003 - April 2005'
+
+    countries_visited:
+      - 'Belgium, Bermuda, Canada, France, Georgia, Germany, Greece,
+         Hong Kong, Italy, Maldives, Mongolia, Morocco, Netherlands,
+         Poland, Portugal, South Korea, Spain, Thailand, Turkey,
+         Ukraine, United Arab Emirates'
+
+    selected_software:
+      - name: '[tec](http://jrsmith3.github.io/tec)'
+        highlights:
+          - 'Utilities for simulating vacuum thermionic energy
+            conversion devices.'
+
+      - name: '[ibei](http://ibei.readthedocs.org/en/latest)'
+        highlights:
+          - 'Calculator for incomplete Bose-Einstein integral.'
+
+    publications:
+      - title: 'Design and characterization of GaN p-i-n diodes for
+        betavoltaic devices'
+        authors:
+          - Khan, M.R.
+          - '**Smith, J.R.**'
+          - Tompkins, R.P.
+          - Kelley, S.
+          - Litz, M.
+          - Russo, J.
+          - Leathersich, J.
+          - Shahedipour-Sandvik, F.
+          - Jones, K.A.
+          - Iliadis, A.
+        doi: 10.1016/j.sse.2017.06.010
+        journal: Solid-State Electronics
+        date: 2017
+        volume: 136
+        pages: 24-29
+
+      - title: 'GaN Power Schottky Diodes with Drift Layers Grown on
+        Four Substrates'
+        authors:
+          - Tompkins, R.P.
+          - '**Smith, J.R.**'
+          - Kirchner, K.W.
+          - Jones, K.A.
+          - Leach, J.H.
+          - Udwary, K.
+          - Preble, E.
+          - Suvarna, P.
+          - Leathersich, J.M.
+          - Shahedipour-Sandvik, F.
+        doi: 10.1007/s11664-014-3021-9
+        journal: Journal of Electronic Materials
+        date: 2014
+        volume: 43
+        issue: 4
+        pages: 850-856
+
+      - title: 'Increasing the efficiency of a thermionic engine using
+        a negative electron affinity collector'
+        authors:
+          - '**Smith, J.R.**'
+        doi: 10.1063/1.4826202
+        journal: Journal of Applied Physics
+        date: 2013
+        volume: 114
+        pages: 164514
+
+      - title: GaN Power Schottky Diodes
+        authors:
+          - Tompkins, R.P.
+          - '**Smith, J.R.**'
+          - Kirchner, K.W.
+          - Jones, K.A.
+          - Preble, E.
+          - Leach, J.
+          - Mulholland, G.
+          - Suvarna, P.
+          - Tungare, M.
+          - Shahedipour-Sandvik, F.
+        doi: 10.1149/1.3701521
+        journal: ECS Transactions
+        date: 2012
+        volume: 45
+        issue: 7
+        pages: 17-25
+
+      - title: 'Theory of space charge limited regime of thermionic
+        energy converter with negative electron affinity emitter'
+        authors:
+          - '**Smith, J.R.**'
+          - Bilbro, G.
+          - Nemanich, R.
+        doi: 10.1116/1.3125282
+        journal: Journal of Vacuum Science and Technology B
+        date: 2009
+        volume: 27
+        pages: 1132-1141
+
+      - title: 'Considerations for a high performance thermionic
+        energy conversion device based on an NEA emitter'
+        authors:
+          - '**Smith, J.R.**'
+          - Bilbro, G.
+          - Nemanich, R.
+        doi: 10.1103/PhysRevB.76.245327
+        journal: Physical Review B
+        date: 2007
+        volume: 76
+        pages: 245327-245332
+
+      - title: 'Using negative electron affinity diamond emitters to
+        mitigate space charge in vacuum thermionic energy conversion
+        devices'
+        authors:
+          - '**Smith, J.R.**'
+          - Bilbro, G.
+          - Nemanich, R.
+        doi: 10.1016/j.diamond.2006.09.011
+        journal: Diamond and Related Materials
+        date: 2006
+        volume: 15
+        pages: 2082-2085
+
+      - title: 'The effect of Schottky barrier lowering and nonplanar
+        emitter geometry on the performance of a thermionic energy
+        converter'
+        authors:
+          - '**Smith, J.R.**'
+          - Bilbro, G.
+          - Nemanich, R.
+        doi: 10.1016/j.diamond.2005.12.057
+        journal: Diamond and Related Materials
+        date: 2006
+        volume: 15
+        pages: 870-874
+
+      - title: 'A Free Energy Model for Hysteresis in Ferroelectric
+        Materials'
+        authors:
+          - Smith, R.C.
+          - Seelecke, S.
+          - Ounaies, Z.
+          - '**Smith, J.R.**'
+        doi: 10.1177/1045389X03038841
+        journal: Journal of Intelligent Material Systems and Structures
+        date: 2023-11
+        volume: 14
+        pages: 719-739
+
+      - title: 'Model Development and Inverse Compensator Design for
+        High Speed Nanopositioning'
+        authors:
+          - Smith, R.C.
+          - Salapaka, M.V.
+          - Hatch, A.
+          - '**Smith, J.R.**'
+          - De, T.
+        doi: 10.1109/CDC.2002.1184930
+        journal: 'Proceedings of the 41st IEEE Conference on Decision
+        and Control, 2002'
+        date: 2002-12
+        volume: 4
+        pages: 3652-3657
+
+    non_refereed_publications:
+      - title: 'Applying LaPO4 Phosphor via Spinning for
+        BetaPhotovoltaic Devices'
+        authors:
+          - Khan, M.R.
+          - '**Smith, J.R.**'
+          - Kirchner, K.
+          - Jones, K.A.
+        journal: US Army Research Laboratory Technical Report
+        date: 2015-06
+        technical_report_id: ARL-TR-7269
+        url: https://apps.dtic.mil/sti/citations/tr/ADA621659
+
+    invited_presentations:
+      - bullet: '**Smith, J.R.** September 2015. Achieving >20%
+        efficiency using a vacuum thermionic energy converter
+        featuring a diamond anode. University of British Columbia.'
+
+    presentations:
+      - bullet: '**Smith, J.R.** November 2013. Achieving >20%
+        efficiency using a vacuum thermionic energy converter
+        featuring a III-nitride, negative electron affinity anode.
+        Materials Research Society Fall Meeting, Boston,
+        Massachusetts.'
+      - bullet: '**Smith, J.R.**, Ricketts, D., Bain, J. June 2011.
+        Localized Thermal Modification of Surfaces via Electron
+        Bombardment from an STM Tip. 55th International Conference on
+        Electron, Ion, and Photon Beam Technology and
+        Nanofabrication, Las Vegas, Nevada.'
+      - bullet: '**Smith, J.R.**, Ricketts, D., Hu, W., Dang, Y.,
+        Ozcan, O., Sitti, M., Davis, R., Bain, J. November 2010.
+        Scanning Probe Nanomanufacturing on Si: Surface
+        Characterization of the Process Technique. Materials Research
+        Society Fall Meeting, Boston, Massachusetts.'
+      - bullet: '**Smith, J.R.**, Bilbro, G., Nemanich, R. March 2009.
+        Optimized vacuum thermionic energy conversion using diamond
+        materials. American Physical Society March Meeting,
+        Pittsburgh, Pennsylvania.'
+      - bullet: '**Smith, J.R.**, Bilbro, G., Nemanich, R. November
+        2007. Vacuum thermionic energy conversion from nitrogen and
+        phosphorus doped diamond. Materials Research Society Fall
+        Meeting, Boston, Massachusetts.'
+      - bullet: '**Smith, J.R.**, Nemanich, R., Friedmann, T.,
+        Hertzberg, E. November 2007. Development of a Hydrogen
+        Termination Procedure for Tetrahedral Amorphous Carbon for
+        use with the Interstellar Boundary Explorer. Materials
+        Research Society Fall Meeting, Boston, Massachusetts.'
+      - bullet: '**Smith, J.R.**, Bilbro, G., Nemanich, R. September
+        2007. Efficient conversion of heat directly to electricity
+        using negative electron affinity diamond electrodes. 18th
+        European Conference on Diamond, Diamond-Like Materials,
+        Carbon Nanotubes, and Nitrides 2007. Berlin, Germany.'
+      - bullet: '**Smith, J.R.**, Bilbro, G., Nemanich, R. March 2007.
+        Theoretical investigation of vacuum thermionic energy
+        conversion devices for efficient conversion of solar to
+        electrical energy. American Physical Society March Meeting,
+        Denver, Colorado.'
+      - bullet: '**Smith, J.R.**, Bilbro, G., Nemanich, R. May 2006.
+        The Effect of Negative Electron Affinity Emitters on the
+        Space Charge Effect of Vacuum Thermionic Energy Conversion
+        Devices. ICNDST & ADC 2006 Joint Conference, Research
+        Triangle Park, North Carolina.'
+      - bullet: '**Smith, J.R.**, Bilbro, G., Nemanich, R. March 2006.
+        The Effect of Negative Electron Affinity Emitter Materials on
+        Space Charge Mitigation of Vacuum Thermionic Energy
+        Conversion Devices. American Physical Society March Meeting,
+        Baltimore, Maryland.'
+      - bullet: '**Smith, J.R.**, Bilbro, G., Nemanich, R. December
+        2005. Vacuum TEC Modeling. Thermionic Energy Conversion MURI
+        Review Meeting. Berkeley, California.'
+      - bullet: '**Smith, J.R.**, Bilbro, G., Nemanich, R. November
+        2005. Effect of Nanostructured Emitters on the Performance of
+        Vacuum Thermionic Energy Conversion Devices. Materials
+        Research Society Fall Meeting, Boston, Massachusetts.'
+      - bullet: '**Smith, J.R.**, Bilbro, G., Nemanich, R. December
+        2004. Modeling Vacuum Thermionic Energy Converters.
+        Thermionic Energy Conversion MURI Review Meeting. Santa Cruz,
+        California.'
+      - bullet: '**Smith, J.R.**, Bilbro, G., Nemanich, R. July 2004.
+        Modeling Vacuum Thermionic Energy Converters. Thermionic
+        Energy Conversion MURI Review Meeting, Raleigh, North
+        Carolina.'
+      - bullet: '**Smith, J.R.**, Bilbro, G., Nemanich, R. April 2004.
+        The Theory of Thermionic Energy Conversion. Thermioinic
+        Energy Conversion SBIR phase II Kickoff meeting, Raleigh,
+        North Carolina.'
+      - bullet: '**Smith, J.R.** and Mitas, L. 2001. Molecular
+        Dynamics Simulations. 2001 Summer REU Program Presentations,
+        Raleigh, North Carolina.'
+
+    posters:
+      - bullet: '**Smith, J.R.** November 2014.
+        [Beta-enhanced thermoelectron emission and energy conversion](https://github.com/jrsmith3/conf-mrs_fall_2014_poster/releases),
+        Boston, MA.'
+      - bullet: '**Smith, J.R.** August 2013. Simulated thermionic
+        engine performance using III-nitride, negative electron
+        affinity collector, Washington, DC.'
+      - bullet: '**Smith, J.R.**, Ricketts, D., Davis, R., Bain, J.,
+        Fedder, G., Sitti, M., Santhanam, S., Dang, Y., Hu, W.,
+        Ozcan, O., Zhang, A., Gu, J. Tip directed, field assisted
+        nanomanufacturing. DARPA MEMS PI Review Meeting July 2010.
+        San Francisco, California.'
+      - bullet: '**Smith, J.R.**, Hu, W., Dang, Y., Ozcan, O., Sitti,
+        M., Bain, J., Davis, R., Ricketts, D. Towards Writing Si
+        Nanowires on Si (100) with an STM Tip: Surface Preparation
+        and Initial Results. Materials Research Society Fall Meeting
+        2009. Boston, Massachusetts.'
+      - bullet: '**Smith, J.R.**, Ricketts, D., Davis, R., Bain, J.,
+        Fedder, G., Sitti, M., Santhanam, S., Dang, Y., Hu, W.,
+        Ozcan, O., Zhang, A. Tip directed, field assisted
+        nanomanufacturing: Initial surface preparation results. DARPA
+        MEMS PI Review Meeting July 2009. Sunriver, Oregon.'
+      - bullet: '**Smith, J.R.**, Nemanich, R. Hertzberg, E.,
+        Friedmann, T.A. Hydrogen termination of ta:C for use in
+        interstellar neutral particle detection. New Diamond and Nano
+        Carbons 2007. Osaka, Japan.'
+      - bullet: '**Smith, J.R.**, Nemanich, R. Effect of Hydrogen
+        Passivation on RMS Roughness and Electronic Structure of
+        Diamond-like Carbon Films. Materials Research Society Fall
+        Meeting 2006. Boston, Massachusetts.'
+      - bullet: '**Smith, J.R.**, Bilbro, G., Nemanich, R. Theory of
+        the performance of a thermionic energy conversion device with
+        a negative electron affinity emitter. 17th European
+        Conference on Diamond, Diamond-Like Materials, Carbon
+        Nanotubes, and Nitrides 2006. Estoril, Portugal.'
+      - bullet: '**Smith, J.R.**, Bilbro, G., Nemanich, R. A model for
+        the effect of Schottky barrier lowering and non-planar
+        emitter geometry on the performance of a thermionic energy
+        converter. 16th European Conference on Diamond, Diamond-Like
+        Materials, Carbon Nanotubes, and Nitrides 2005. Toulouse,
+        France.'
+      - bullet: '**Smith, J.R.**, Bilbro, G., Nemanich, R. Modeling
+        Thermionic Energy Conversion Devices. June 2005 Thermionic
+        Energy Conversion MURI Meeting, Santa Barbara, California.'
+      - bullet: '**Smith, J.R.** and Bilbro, G. Conventional Theory of
+        Thermioinic Emission. November 2003. Thermionic Energy
+        Conversion MURI Review Meeting, Cambridge, Massachusetts.'
+
+design:
+  theme: classic
+  font: Source Sans 3
+  font_size: 10pt
+  page_size: letterpaper
+  color: '#004f90'
+  disable_external_link_icons: false
+  disable_page_numbering: false
+  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  disable_last_updated_date: false
+  last_updated_date_style: Last updated in TODAY
+  header_font_size: 30 pt
+  text_alignment: justified
+  seperator_between_connections: ''
+  use_icons_for_connections: true
+  margins:
+    page:
+      top: 2 cm
+      bottom: 2 cm
+      left: 2 cm
+      right: 2 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.5 cm
+      education_degree_width: 1 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.3 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.5 cm
+  show_timespan_in:
+    - Experience
