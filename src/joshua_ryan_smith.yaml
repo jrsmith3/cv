@@ -287,31 +287,31 @@ cv:
         2019-05-07.'
 
     teaching:
-      - bullet: [Software Carpentry Workshop, National Institute of
+      - bullet: '[Software Carpentry Workshop, National Institute of
         Standards and Technology, Gaithersburg MD. September 23-24,
-        2015](https://pages.nist.gov/2015-09-23-nist)
-      - bullet: [Software Carpentry Workshop, National Institute of
+        2015](https://pages.nist.gov/2015-09-23-nist)'
+      - bullet: '[Software Carpentry Workshop, National Institute of
         Standards and Technology, Gaithersburg MD. July 23-24, 2015]
-        (https://pages.nist.gov/2015-07-23-nist)
-      - bullet: Software Carpentry Bootcamp, Carnegie Mellon
-        University. July 27-28, 2013
-      - bullet: Software Carpentry Bootcamp, Johns Hopkins University.
-        June 18-19, 2012
-      - bullet: Software Carpentry Bootcamp, University of Chicago.
-        April 2-3, 2012
+        (https://pages.nist.gov/2015-07-23-nist)'
+      - bullet: 'Software Carpentry Bootcamp, Carnegie Mellon
+        University. July 27-28, 2013'
+      - bullet: 'Software Carpentry Bootcamp, Johns Hopkins
+        University. June 18-19, 2012'
+      - bullet: 'Software Carpentry Bootcamp, University of Chicago.
+        April 2-3, 2012'
 
     honors_and_awards:
-      - bullet: COMAP Mathematical Contest in Modeling 2002,
-        Meritorious Submission
+      - bullet: 'COMAP Mathematical Contest in Modeling 2002,
+        Meritorious Submission'
       - bullet: Eagle Scout Award, 1996
 
     service:
-      - bullet:  Scipy 2021 Program Committee Member
-      - bullet:  Scipy 2020 Program Committee Member
-      - bullet:  President, Graduate Physics Student Association
-        (GPSA). April 2005 - April 2006
-      - bullet: University Graduate Student Assc. Representative.
-        April 2003 - April 2005
+      - bullet:  'Scipy 2021 Program Committee Member'
+      - bullet:  'Scipy 2020 Program Committee Member'
+      - bullet:  'President, Graduate Physics Student Association
+        (GPSA). April 2005 - April 2006'
+      - bullet: 'University Graduate Student Assc. Representative.
+        April 2003 - April 2005'
 
     countries_visited:
       - 'Belgium, Bermuda, Canada, France, Georgia, Germany, Greece,
@@ -320,18 +320,18 @@ cv:
          Ukraine, United Arab Emirates'
 
     selected_software:
-      - name: [`tec`](http://jrsmith3.github.io/tec)
+      - name: '[`tec`](http://jrsmith3.github.io/tec)'
         highlights:
           - 'Utilities for simulating vacuum thermionic energy
             conversion devices.'
 
-      - name: [`ibei`](http://ibei.readthedocs.org/en/latest)
+      - name: '[`ibei`](http://ibei.readthedocs.org/en/latest)'
         highlights:
           - 'Calculator for incomplete Bose-Einstein integral.'
 
     publications:
-      - title: Design and characterization of GaN p-i-n diodes for
-        betavoltaic devices
+      - title: 'Design and characterization of GaN p-i-n diodes for
+        betavoltaic devices'
         authors:
           - Khan, M.R.
           - '**Smith, J.R.**'
@@ -349,8 +349,8 @@ cv:
         volume: 136
         pages: 24-29
 
-      - title: GaN Power Schottky Diodes with Drift Layers Grown on
-        Four Substrates
+      - title: 'GaN Power Schottky Diodes with Drift Layers Grown on
+        Four Substrates'
         authors:
           - Tompkins, R.P.
           - '**Smith, J.R.**'
@@ -369,8 +369,8 @@ cv:
         issue: 4
         pages: 850-856
 
-      - title: Increasing the efficiency of a thermionic engine using
-        a negative electron affinity collector
+      - title: 'Increasing the efficiency of a thermionic engine using
+        a negative electron affinity collector'
         authors:
           - '**Smith, J.R.**'
         doi: 10.1063/1.4826202
@@ -398,8 +398,8 @@ cv:
         issue: 7
         pages: 17-25
 
-      - title: Theory of space charge limited regime of thermionic
-        energy converter with negative electron affinity emitter
+      - title: 'Theory of space charge limited regime of thermionic
+        energy converter with negative electron affinity emitter'
         authors:
           - '**Smith, J.R.**'
           - Bilbro, G.
@@ -410,8 +410,8 @@ cv:
         volume: 27
         pages: 1132-1141
 
-      - title: Considerations for a high performance thermionic energy
-        conversion device based on an NEA emitter
+      - title: 'Considerations for a high performance thermionic
+        energy conversion device based on an NEA emitter'
         authors:
           - '**Smith, J.R.**'
           - Bilbro, G.
@@ -422,9 +422,9 @@ cv:
         volume: 76
         pages: 245327-245332
 
-      - title: Using negative electron affinity diamond emitters to
+      - title: 'Using negative electron affinity diamond emitters to
         mitigate space charge in vacuum thermionic energy conversion
-        devices
+        devices'
         authors:
           - '**Smith, J.R.**'
           - Bilbro, G.
@@ -435,9 +435,9 @@ cv:
         volume: 15
         pages: 2082-2085
 
-      - title: The effect of Schottky barrier lowering and nonplanar
+      - title: 'The effect of Schottky barrier lowering and nonplanar
         emitter geometry on the performance of a thermionic energy
-        converter
+        converter'
         authors:
           - '**Smith, J.R.**'
           - Bilbro, G.
@@ -448,8 +448,8 @@ cv:
         volume: 15
         pages: 870-874
 
-      - title: A Free Energy Model for Hysteresis in Ferroelectric
-        Materials
+      - title: 'A Free Energy Model for Hysteresis in Ferroelectric
+        Materials'
         authors:
           - Smith, R.C.
           - Seelecke, S.
@@ -461,8 +461,8 @@ cv:
         volume: 14
         pages: 719-739
 
-      - title: Model Development and Inverse Compensator Design for
-        High Speed Nanopositioning
+      - title: 'Model Development and Inverse Compensator Design for
+        High Speed Nanopositioning'
         authors:
           - Smith, R.C.
           - Salapaka, M.V.
@@ -470,15 +470,15 @@ cv:
           - '**Smith, J.R.**'
           - De, T.
         doi: 10.1109/CDC.2002.1184930
-        journal: Proceedings of the 41st IEEE Conference on Decision
-        and Control, 2002
+        journal: 'Proceedings of the 41st IEEE Conference on Decision
+        and Control, 2002'
         date: 2002-12
         volume: 4
         pages: 3652-3657
 
     non_refereed_publications:
-      - title: Applying LaPO4 Phosphor via Spinning for
-        BetaPhotovoltaic Devices
+      - title: 'Applying LaPO4 Phosphor via Spinning for
+        BetaPhotovoltaic Devices'
         authors:
           - Khan, M.R.
           - '**Smith, J.R.**'
