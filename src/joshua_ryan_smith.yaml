@@ -27,9 +27,19 @@ cv:
         start_date: 2019-03
         end_date: present
         highlights:
-          - "Since September 2024 I have managed the Metabot platform
-            teams; these teams have been rebuilding Metabot's core
-            data processing functionality from scratch."
+          - " Since February 2026 I have been managing the external
+              data sharing platform. In this time the teams have been
+              completely reimplementing the application's backend as
+              well as implementing automated approvals for shares.
+              When I joined this struggling team, I imposed order on
+              the intent planning process, established the production
+              on-call rotation standards, managed the agentic AI
+              development transformation, and absorbed management of
+              one of the teams when my peer team lead left the
+              company."
+          - "From September 2024 to February 2026 I managed the
+             Metabot platform teams; these teams rebuilt Metabot's
+             core data processing functionality from scratch."
           - "From August 2023 to September 2024 I have managed the two
             teams of the OnePassport application which provides
             access to all enterprise RDS and DynamoDB instances for
