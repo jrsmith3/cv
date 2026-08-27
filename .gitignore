@@ -1,5 +1,2 @@
-# Ignore specific build artifacts
-build
-
-# for projects that use SCons for building: http://http://www.scons.org/
-.sconsign.dblite
+__pycache__/
+rendercv_output/
